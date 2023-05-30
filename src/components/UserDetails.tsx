@@ -1,3 +1,5 @@
+import React from "react";
+
 const UserDetails = () => {
   return (
     <div className="flex w-full space-x-4">
